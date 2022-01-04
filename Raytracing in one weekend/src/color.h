@@ -1,4 +1,7 @@
 #pragma once
+
+// this header contains color helper functions
+
 #include "vec3.h"
 
 #include <iostream>

@@ -1,4 +1,7 @@
 #pragma once
+
+// provided implementation of the vec3 class.
+
 #include <cmath>
 #include <iostream>
 

@@ -1,5 +1,7 @@
 #pragma once
 
+// this header contains  the ray class
+
 #include "vec3.h"
 
 class ray
